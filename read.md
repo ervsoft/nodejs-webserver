@@ -1,1 +1,1 @@
-bu bir web server uygulama ornegıdır
+bu bir web server uygulama ornegıdır 
